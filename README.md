@@ -15,7 +15,7 @@ Projeto de análise de dados desenvolvido com Python e Pandas, integrando tabela
    - Conversão de identificadores (`ID_Cliente`) para inteiros.
    - Tratamento de caracteres especiais e formatação de datas (`Mes_Ref`).
    - Normalização de tipos numéricos e separadores decimais em CSV.
-2. **Engenharia de Métricas:**
+2. **Métricas:**
    - Faturamento Bruto, Valor de Desconto e Faturamento Líquido.
    - Custo Operacional Total, Lucro Bruto e Margem de Lucro percentual.
 3. **Modelagem Relacional (Merges):**
