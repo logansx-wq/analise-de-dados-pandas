@@ -29,3 +29,4 @@ Projeto de análise de dados desenvolvido com Python e Pandas, integrando tabela
    ```bash
    pip install pandas openpyxl
 2. Execute o arquivo "analise.py"
+<img width="741" height="177" alt="image" src="https://github.com/user-attachments/assets/707dda4f-1be7-4fff-8185-7f17023b9164" />
