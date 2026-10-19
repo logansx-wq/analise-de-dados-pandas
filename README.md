@@ -8,6 +8,7 @@ Projeto de análise de dados desenvolvido com Python e Pandas, integrando tabela
 - `Metas.csv`: Metas comerciais mensais por vendedor.
 - `analise.py`: Script principal de ingestão, limpeza, enriquecimento e exportação.
 - `vendas_consolidadas.csv`: Base tratada pronta para consumo analítico.
+<img width="756" height="192" alt="image" src="https://github.com/user-attachments/assets/cd9190c2-4d91-4846-8466-7d71db6544cc" />
 
 ## Tratamentos Realizados
 1. **Limpeza e Padronização:**
@@ -20,8 +21,11 @@ Projeto de análise de dados desenvolvido com Python e Pandas, integrando tabela
    - Custo Operacional Total, Lucro Bruto e Margem de Lucro percentual.
 3. **Modelagem Relacional (Merges):**
    - Cruzamento entre a tabela fato de vendas e as três dimensões de suporte.
+<img width="379" height="309" alt="image" src="https://github.com/user-attachments/assets/3d48fb62-a6ef-4825-baa7-a15cf03375b7" />
+
 
 ## Como Executar
 1. Instale as dependências:
    ```bash
    pip install pandas openpyxl
+2. Execute o arquivo "analise.py"
