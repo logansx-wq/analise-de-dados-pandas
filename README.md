@@ -8,8 +8,10 @@ Projeto de análise de dados desenvolvido com Python e Pandas, integrando tabela
 - `Metas.csv`: Metas comerciais mensais por vendedor.
 - `analise.py`: Script principal de ingestão, limpeza, enriquecimento e exportação.
 - `vendas_consolidadas.csv`: Base tratada pronta para consumo analítico.
+- <img width="266" height="214" alt="image" src="https://github.com/user-attachments/assets/df292a90-d24c-4a91-b462-783c177ce89a" />
 
-<img width="756" height="192" alt="image" src="https://github.com/user-attachments/assets/cd9190c2-4d91-4846-8466-7d71db6544cc" />
+<img width="621" height="145" alt="image" src="https://github.com/user-attachments/assets/a0d2712c-4356-43cb-8502-0d3558d1f2cb" />
+
 
 ## Tratamentos Realizados
 1. **Limpeza e Padronização:**
